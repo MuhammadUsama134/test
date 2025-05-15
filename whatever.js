@@ -10,53 +10,9 @@ class name {
         console.log("dfghjklgfdghvjhjknkm,l;.");
         console.log("dfghjklgfdghvjhjknkm,l;.");
         console.log("dfghjklgfdghvjhjknkm,l;.");
-         console.log("dfghjklgfdghvjhjknkm,l;.");
-        console.log("dfghjklgfdghvjhjknkm,l;.");
-        console.log("dfghjklgfdghvjhjknkm,l;.");
-         console.log("dfghjklgfdghvjhjknkm,l;.");
-        console.log("dfghjklgfdghvjhjknkm,l;.");
-        console.log("dfghjklgfdghvjhjknkm,l;.");
-         console.log("dfghjklgfdghvjhjknkm,l;.");
-        console.log("dfghjklgfdghvjhjknkm,l;.");
-        console.log("dfghjklgfdghvjhjknkm,l;.");
-         console.log("dfghjklgfdghvjhjknkm,l;.");
-        console.log("dfghjklgfdghvjhjknkm,l;.");
-        console.log("dfghjklgfdghvjhjknkm,l;."); console.log("dfghjklgfdghvjhjknkm,l;.");
-        console.log("dfghjklgfdghvjhjknkm,l;.");
-        console.log("dfghjklgfdghvjhjknkm,l;."); console.log("dfghjklgfdghvjhjknkm,l;.");
-        console.log("dfghjklgfdghvjhjknkm,l;.");
-        console.log("dfghjklgfdghvjhjknkm,l;."); console.log("dfghjklgfdghvjhjknkm,l;.");
-        console.log("dfghjklgfdghvjhjknkm,l;.");
-        console.log("dfghjklgfdghvjhjknkm,l;."); console.log("dfghjklgfdghvjhjknkm,l;.");
-        console.log("dfghjklgfdghvjhjknkm,l;.");
-        console.log("dfghjklgfdghvjhjknkm,l;."); console.log("dfghjklgfdghvjhjknkm,l;.");
-        console.log("dfghjklgfdghvjhjknkm,l;.");
-        console.log("dfghjklgfdghvjhjknkm,l;."); console.log("dfghjklgfdghvjhjknkm,l;.");
-        console.log("dfghjklgfdghvjhjknkm,l;.");
-        console.log("dfghjklgfdghvjhjknkm,l;."); console.log("dfghjklgfdghvjhjknkm,l;.");
-        console.log("dfghjklgfdghvjhjknkm,l;.");
-        console.log("dfghjklgfdghvjhjknkm,l;."); console.log("dfghjklgfdghvjhjknkm,l;.");
-        console.log("dfghjklgfdghvjhjknkm,l;.");
-        console.log("dfghjklgfdghvjhjknkm,l;."); console.log("dfghjklgfdghvjhjknkm,l;.");
-        console.log("dfghjklgfdghvjhjknkm,l;.");
-        console.log("dfghjklgfdghvjhjknkm,l;."); console.log("dfghjklgfdghvjhjknkm,l;.");
-        console.log("dfghjklgfdghvjhjknkm,l;.");
-        console.log("dfghjklgfdghvjhjknkm,l;."); console.log("dfghjklgfdghvjhjknkm,l;.");
-        console.log("dfghjklgfdghvjhjknkm,l;.");
-        console.log("dfghjklgfdghvjhjknkm,l;."); console.log("dfghjklgfdghvjhjknkm,l;.");
-        console.log("dfghjklgfdghvjhjknkm,l;.");
-        console.log("dfghjklgfdghvjhjknkm,l;."); console.log("dfghjklgfdghvjhjknkm,l;.");
-        console.log("dfghjklgfdghvjhjknkm,l;.");
-        console.log("dfghjklgfdghvjhjknkm,l;."); console.log("dfghjklgfdghvjhjknkm,l;.");
-        console.log("dfghjklgfdghvjhjknkm,l;.");
-        console.log("dfghjklgfdghvjhjknkm,l;."); console.log("dfghjklgfdghvjhjknkm,l;.");
-        console.log("dfghjklgfdghvjhjknkm,l;.");
-        console.log("dfghjklgfdghvjhjknkm,l;."); console.log("dfghjklgfdghvjhjknkm,l;.");
-        console.log("dfghjklgfdghvjhjknkm,l;.");
-        console.log("dfghjklgfdghvjhjknkm,l;."); console.log("dfghjklgfdghvjhjknkm,l;.");
-        console.log("dfghjklgfdghvjhjknkm,l;.");
-        console.log("dfghjklgfdghvjhjknkm,l;.");
-
+   
+        
+     
 
         console.log("a")
     }
