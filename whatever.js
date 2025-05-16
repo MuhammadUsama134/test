@@ -14,6 +14,6 @@ class name {
         
      
 
-        console.log("asc")
+        console.log("assc")
     }
 }
