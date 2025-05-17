@@ -14,6 +14,6 @@ class name {
         
      
 
-        console.log("assc")
+        console.log("assdc")
     }
 }
